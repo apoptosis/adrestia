@@ -1,0 +1,7 @@
+#+TITLE: Adrestia --- A Discord Karma Bot
+#+AUTHOR: LiquidZulu, yangneo-netizen
+#+EMAIL: liquidzulu@pm.me
+
+#+begin_src
+Adrestia is a Discord.js bot developed for apoptosis with the purpose of assingning a Karma score to users based on how other users react by way of set emotes.
+#+end_src

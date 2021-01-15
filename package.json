@@ -1,0 +1,30 @@
+{
+  "name": "adrestia",
+  "version": "0.0.0",
+  "description": "Adrestia is a discord karma bot",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoptosis/adrestia.git"
+  },
+  "keywords": [
+    "discord",
+    "karma",
+    "reaction"
+  ],
+  "author": "LiquidZulu,yangneo-netizen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apoptosis/adrestia/issues"
+  },
+  "homepage": "https://github.com/apoptosis/adrestia#readme",
+  "dependencies": {
+    "@types/node": "^14.14.20",
+    "@types/ws": "^7.4.0",
+    "discord.js": "^12.5.1"
+  }
+}
